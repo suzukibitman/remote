@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/root'
+let g:netrw_dirhist_2='/home/bitman/codeLearning'
+let g:netrw_dirhist_3='/home/bitman'
+let g:netrw_dirhist_4='/home/bitman/codeLearning'
+let g:netrw_dirhist_5='/home/bitman/codeLearning/perl'
+let g:netrw_dirhist_6='/home/bitman'
+let g:netrw_dirhist_7='/home/bitman/03_github'
