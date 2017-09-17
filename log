@@ -1,0 +1,11 @@
+ 2178  git commit -m "ubuntu push"
+ 2182  git push origin master
+ 2183  git commit -m "ubuntu"
+ 2184  git log
+ 2185  git add *
+ 2186  git commit -m "ubuntu"
+ 2187  git push origin master
+ 2188  git log
+ 2196  cp .vim 03_github/remote/ -r
+ 2197  cd 03_github/remote/
+ 2200  history | egrep git
